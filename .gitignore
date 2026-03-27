@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Środowisko VS Code / PyCharm ---
+.vscode/
+.idea/
+
+# --- Systemowe ---
+.DS_Store
+Thumbs.db
+
+# --- Wyniki (Opcjonalnie) ---
+# Odkomentuj poniższe linie, jeśli NIE chcesz wysyłać wyników na GitHub:
+# results/plots/*.png
+# results/plots/*.gif

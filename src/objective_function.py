@@ -1,5 +1,6 @@
 import numpy as np
 
+# funkcja celu
 def calculate_distance(path, cities):
     # Suma odległości euklidesowych
     dist = 0
